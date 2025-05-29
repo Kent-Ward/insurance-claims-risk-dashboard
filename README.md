@@ -116,7 +116,7 @@ This analysis examined 505 insurance claims to assess financial risk and detect 
 
 - 🔍 **5 claims (0.99%) were flagged as potentially fraudulent**, primarily due to unusually high claim frequency or payout amounts.
 - 💡 A synthetic fraud scenario was introduced to test our detection logic and validate feature engineering and risk scoring methods.
-- 📊 A Tableau dashboard was created to visualize total claims, frequency patterns, and flagged risks — designed to support underwriting, fraud review, or pricing teams.
+- 📊 A Tableau dashboard was created to visualize total claims, frequency patterns, and flagged risks designed to support underwriting, fraud review, or pricing teams.
 
 ### 📌 Business Recommendations
 
