@@ -1,0 +1,501 @@
+Policy_ID,Customer_ID,Claim_Type,Region,Claim_Status,Fraudulent_Claim,Accident_Type,Policy_Type,Processing_Days,Claim_Amount
+POL00001,CUST00001,Home,East,Rejected,No,Medical Emergency,Gold,43,16202
+POL00002,CUST00002,Travel,South,Rejected,No,Collision,Gold,56,40734
+POL00003,CUST00003,Health,Central,Rejected,Yes,Burglary,Platinum,33,8079
+POL00004,CUST00004,Health,West,Approved,No,Flood,Premium,19,8987
+POL00005,CUST00005,Travel,Central,Approved,No,Medical Emergency,Platinum,47,40567
+POL00006,CUST00006,Life,West,Approved,No,Medical Emergency,Gold,12,29940
+POL00007,CUST00007,Travel,East,Under Review,No,Medical Emergency,Gold,25,38233
+POL00008,CUST00008,Life,Central,Under Review,No,Medical Emergency,Premium,43,18019
+POL00009,CUST00009,Travel,West,Approved,No,Other,Premium,23,47185
+POL00010,CUST00010,Travel,East,Rejected,No,Medical Emergency,Premium,27,19077
+POL00011,CUST00011,Auto,South,Under Review,No,Burglary,Platinum,15,27258
+POL00012,CUST00012,Health,West,Approved,No,Flood,Premium,15,22136
+POL00013,CUST00013,Travel,South,Rejected,No,Other,Gold,28,9311
+POL00014,CUST00014,Travel,South,Under Review,No,Medical Emergency,Gold,57,18214
+POL00015,CUST00015,Home,North,Rejected,No,Fire,Standard,40,15098
+POL00016,CUST00016,Health,Central,Rejected,No,Fire,Platinum,44,29251
+POL00017,CUST00017,Home,West,Rejected,Yes,Flood,Standard,28,38945
+POL00018,CUST00018,Health,South,Rejected,No,Collision,Gold,7,48030
+POL00019,CUST00019,Home,North,Under Review,No,Collision,Standard,26,26945
+POL00020,CUST00020,Travel,East,Under Review,No,Other,Gold,57,26316
+POL00021,CUST00021,Travel,West,Under Review,No,Other,Standard,6,33217
+POL00022,CUST00022,Auto,South,Approved,No,Other,Premium,28,9308
+POL00023,CUST00023,Home,Central,Under Review,No,Collision,Standard,48,6949
+POL00024,CUST00024,Life,North,Rejected,No,Fire,Premium,34,2150
+POL00025,CUST00025,Auto,South,Under Review,No,Collision,Premium,42,24944
+POL00026,CUST00026,Home,Central,Rejected,No,Burglary,Platinum,6,35699
+POL00027,CUST00027,Home,South,Approved,No,Medical Emergency,Premium,25,10204
+POL00028,CUST00028,Auto,West,Rejected,No,Other,Premium,37,2081
+POL00029,CUST00029,Travel,West,Rejected,No,Fire,Standard,16,30305
+POL00030,CUST00030,Home,West,Rejected,No,Flood,Gold,26,17896
+POL00031,CUST00031,Travel,North,Approved,No,Flood,Platinum,48,47175
+POL00032,CUST00032,Auto,West,Under Review,No,Medical Emergency,Premium,29,8805
+POL00033,CUST00033,Travel,Central,Under Review,Yes,Fire,Platinum,53,6237
+POL00034,CUST00034,Health,South,Approved,No,Collision,Standard,31,21056
+POL00035,CUST00035,Life,East,Rejected,No,Collision,Premium,46,46543
+POL00036,CUST00036,Home,Central,Under Review,No,Burglary,Standard,32,46952
+POL00037,CUST00037,Life,Central,Approved,No,Burglary,Platinum,20,4343
+POL00038,CUST00038,Travel,West,Under Review,No,Collision,Standard,19,14500
+POL00039,CUST00039,Home,North,Approved,No,Flood,Platinum,51,30375
+POL00040,CUST00040,Travel,South,Rejected,No,Other,Standard,55,10662
+POL00041,CUST00041,Health,North,Under Review,No,Flood,Platinum,48,17964
+POL00042,CUST00042,Auto,South,Approved,No,Burglary,Gold,59,48893
+POL00043,CUST00043,Home,South,Under Review,Yes,Medical Emergency,Standard,56,9130
+POL00044,CUST00044,Health,North,Under Review,No,Collision,Standard,7,20531
+POL00045,CUST00045,Health,Central,Under Review,No,Burglary,Gold,41,2679
+POL00046,CUST00046,Home,South,Under Review,No,Burglary,Gold,55,4506
+POL00047,CUST00047,Travel,North,Approved,Yes,Other,Standard,11,14284
+POL00048,CUST00048,Health,South,Rejected,No,Collision,Gold,25,8253
+POL00049,CUST00049,Life,East,Approved,No,Other,Premium,13,20128
+POL00050,CUST00050,Health,Central,Approved,Yes,Collision,Platinum,43,28932
+POL00051,CUST00051,Travel,West,Approved,Yes,Other,Platinum,22,10435
+POL00052,CUST00052,Travel,South,Rejected,No,Flood,Platinum,8,45078
+POL00053,CUST00053,Life,East,Under Review,No,Medical Emergency,Premium,29,14296
+POL00054,CUST00054,Health,West,Under Review,No,Medical Emergency,Gold,18,31445
+POL00055,CUST00055,Travel,West,Under Review,No,Collision,Gold,54,14245
+POL00056,CUST00056,Home,South,Rejected,Yes,Fire,Standard,13,30124
+POL00057,CUST00057,Auto,North,Under Review,No,Burglary,Gold,30,30899
+POL00058,CUST00058,Auto,South,Rejected,No,Burglary,Standard,57,44919
+POL00059,CUST00059,Auto,East,Under Review,No,Collision,Premium,6,44225
+POL00060,CUST00060,Health,West,Under Review,No,Other,Platinum,24,36247
+POL00061,CUST00061,Life,South,Approved,No,Fire,Platinum,32,30222
+POL00062,CUST00062,Travel,North,Rejected,No,Flood,Platinum,51,27211
+POL00063,CUST00063,Home,South,Approved,No,Other,Gold,11,38220
+POL00064,CUST00064,Home,Central,Approved,No,Other,Standard,48,27646
+POL00065,CUST00065,Health,North,Approved,No,Collision,Standard,12,39649
+POL00066,CUST00066,Auto,East,Rejected,No,Collision,Premium,51,24049
+POL00067,CUST00067,Health,West,Rejected,No,Burglary,Gold,39,15069
+POL00068,CUST00068,Life,South,Under Review,No,Collision,Premium,18,33580
+POL00069,CUST00069,Life,North,Approved,No,Collision,Standard,21,32843
+POL00070,CUST00070,Travel,Central,Under Review,No,Collision,Standard,40,3849
+POL00071,CUST00071,Travel,North,Approved,No,Burglary,Platinum,54,41158
+POL00072,CUST00072,Life,Central,Rejected,No,Flood,Gold,44,24289
+POL00073,CUST00073,Life,East,Rejected,No,Flood,Standard,8,45690
+POL00074,CUST00074,Life,West,Rejected,No,Collision,Platinum,6,36257
+POL00075,CUST00075,Health,East,Approved,No,Burglary,Gold,10,10823
+POL00076,CUST00076,Life,South,Rejected,No,Flood,Premium,58,42975
+POL00077,CUST00077,Home,North,Approved,Yes,Other,Gold,46,10540
+POL00078,CUST00078,Auto,Central,Under Review,No,Flood,Gold,8,17364
+POL00079,CUST00079,Life,Central,Approved,No,Flood,Standard,58,5611
+POL00080,CUST00080,Auto,North,Under Review,No,Burglary,Standard,33,28663
+POL00081,CUST00081,Health,North,Approved,No,Other,Gold,22,39646
+POL00082,CUST00082,Auto,South,Under Review,No,Burglary,Standard,30,31977
+POL00083,CUST00083,Health,East,Rejected,No,Collision,Standard,48,30168
+POL00084,CUST00084,Home,Central,Under Review,No,Medical Emergency,Standard,38,26471
+POL00085,CUST00085,Health,South,Rejected,No,Flood,Platinum,14,23687
+POL00086,CUST00086,Health,East,Rejected,No,Medical Emergency,Platinum,40,1851
+POL00087,CUST00087,Travel,South,Under Review,Yes,Burglary,Gold,18,19071
+POL00088,CUST00088,Life,Central,Approved,No,Burglary,Standard,35,7833
+POL00089,CUST00089,Life,North,Approved,Yes,Burglary,Platinum,52,12938
+POL00090,CUST00090,Home,North,Approved,No,Medical Emergency,Gold,19,36195
+POL00091,CUST00091,Home,East,Approved,No,Burglary,Standard,12,27144
+POL00092,CUST00092,Life,West,Approved,Yes,Collision,Premium,18,5000
+POL00093,CUST00093,Travel,East,Rejected,No,Burglary,Standard,27,6052
+POL00094,CUST00094,Life,West,Approved,No,Fire,Standard,44,36506
+POL00095,CUST00095,Travel,South,Rejected,No,Medical Emergency,Platinum,25,29074
+POL00096,CUST00096,Home,South,Rejected,No,Fire,Gold,20,39155
+POL00097,CUST00097,Auto,Central,Rejected,No,Burglary,Gold,49,41770
+POL00098,CUST00098,Home,West,Under Review,No,Collision,Platinum,22,33320
+POL00099,CUST00099,Home,Central,Under Review,No,Flood,Standard,51,39304
+POL00100,CUST00100,Health,North,Rejected,No,Other,Premium,57,47247
+POL00101,CUST00101,Health,West,Under Review,No,Other,Standard,28,4913
+POL00102,CUST00102,Health,East,Approved,No,Burglary,Standard,30,18450
+POL00103,CUST00103,Health,North,Approved,No,Collision,Premium,29,25107
+POL00104,CUST00104,Travel,North,Rejected,No,Medical Emergency,Platinum,49,21764
+POL00105,CUST00105,Life,East,Approved,No,Fire,Gold,45,44404
+POL00106,CUST00106,Auto,North,Rejected,No,Fire,Platinum,33,21491
+POL00107,CUST00107,Home,West,Rejected,Yes,Fire,Platinum,19,39494
+POL00108,CUST00108,Travel,Central,Approved,No,Medical Emergency,Standard,49,4373
+POL00109,CUST00109,Auto,North,Under Review,No,Other,Gold,5,13161
+POL00110,CUST00110,Travel,West,Approved,No,Collision,Gold,29,32996
+POL00111,CUST00111,Travel,South,Approved,No,Medical Emergency,Platinum,11,28122
+POL00112,CUST00112,Home,West,Rejected,No,Fire,Premium,13,35850
+POL00113,CUST00113,Life,Central,Rejected,No,Burglary,Platinum,28,28350
+POL00114,CUST00114,Health,West,Rejected,No,Flood,Premium,5,28472
+POL00115,CUST00115,Life,East,Rejected,No,Medical Emergency,Gold,48,29761
+POL00116,CUST00116,Home,Central,Under Review,No,Medical Emergency,Platinum,12,26351
+POL00117,CUST00117,Home,South,Under Review,Yes,Collision,Standard,28,24132
+POL00118,CUST00118,Home,East,Under Review,No,Collision,Platinum,15,16305
+POL00119,CUST00119,Auto,West,Rejected,No,Medical Emergency,Gold,55,10817
+POL00120,CUST00120,Life,Central,Rejected,Yes,Fire,Standard,21,12261
+POL00121,CUST00121,Life,South,Rejected,No,Flood,Standard,12,1417
+POL00122,CUST00122,Travel,East,Under Review,No,Collision,Premium,39,42576
+POL00123,CUST00123,Travel,South,Rejected,Yes,Fire,Standard,39,21358
+POL00124,CUST00124,Travel,West,Approved,No,Burglary,Standard,37,4267
+POL00125,CUST00125,Home,South,Approved,No,Collision,Platinum,9,18209
+POL00126,CUST00126,Life,North,Rejected,No,Fire,Gold,46,25052
+POL00127,CUST00127,Home,East,Approved,No,Fire,Premium,43,39513
+POL00128,CUST00128,Auto,South,Approved,No,Flood,Platinum,45,27092
+POL00129,CUST00129,Travel,West,Under Review,No,Flood,Standard,32,12338
+POL00130,CUST00130,Home,West,Rejected,Yes,Burglary,Standard,11,1412
+POL00131,CUST00131,Home,South,Rejected,No,Fire,Premium,13,8543
+POL00132,CUST00132,Auto,West,Under Review,No,Other,Gold,12,41355
+POL00133,CUST00133,Health,Central,Approved,No,Fire,Premium,16,34496
+POL00134,CUST00134,Life,Central,Approved,No,Flood,Platinum,38,24548
+POL00135,CUST00135,Health,Central,Rejected,No,Other,Premium,37,28384
+POL00136,CUST00136,Travel,North,Approved,No,Collision,Standard,52,45425
+POL00137,CUST00137,Home,South,Under Review,No,Collision,Platinum,59,39756
+POL00138,CUST00138,Auto,North,Under Review,No,Medical Emergency,Standard,27,19888
+POL00139,CUST00139,Auto,West,Rejected,Yes,Flood,Gold,28,36735
+POL00140,CUST00140,Life,North,Under Review,No,Medical Emergency,Standard,41,48295
+POL00141,CUST00141,Health,West,Under Review,No,Other,Standard,39,49816
+POL00142,CUST00142,Life,West,Rejected,No,Flood,Premium,48,18506
+POL00143,CUST00143,Home,East,Under Review,No,Burglary,Standard,44,21463
+POL00144,CUST00144,Life,Central,Under Review,No,Fire,Platinum,26,18955
+POL00145,CUST00145,Auto,West,Under Review,No,Burglary,Platinum,31,38841
+POL00146,CUST00146,Auto,East,Approved,No,Other,Gold,39,6104
+POL00147,CUST00147,Travel,Central,Rejected,No,Flood,Platinum,5,35911
+POL00148,CUST00148,Travel,West,Rejected,No,Other,Premium,39,24190
+POL00149,CUST00149,Home,West,Rejected,No,Fire,Gold,41,8357
+POL00150,CUST00150,Health,North,Approved,No,Collision,Platinum,51,33479
+POL00151,CUST00151,Life,North,Approved,No,Collision,Premium,18,45811
+POL00152,CUST00152,Home,Central,Rejected,No,Other,Platinum,7,37208
+POL00153,CUST00153,Travel,West,Approved,No,Medical Emergency,Platinum,5,21150
+POL00154,CUST00154,Life,South,Rejected,No,Flood,Standard,9,6644
+POL00155,CUST00155,Travel,North,Approved,No,Flood,Platinum,30,44286
+POL00156,CUST00156,Life,Central,Under Review,No,Collision,Platinum,59,48320
+POL00157,CUST00157,Health,West,Under Review,Yes,Burglary,Premium,18,3914
+POL00158,CUST00158,Home,West,Rejected,No,Fire,Premium,43,22352
+POL00159,CUST00159,Life,South,Approved,No,Burglary,Standard,31,47352
+POL00160,CUST00160,Auto,Central,Approved,No,Burglary,Platinum,13,45912
+POL00161,CUST00161,Auto,West,Under Review,Yes,Other,Standard,19,15397
+POL00162,CUST00162,Life,North,Under Review,No,Collision,Platinum,19,42555
+POL00163,CUST00163,Life,South,Approved,No,Collision,Gold,30,47959
+POL00164,CUST00164,Life,Central,Approved,No,Collision,Gold,46,1728
+POL00165,CUST00165,Auto,South,Approved,No,Other,Standard,17,1698
+POL00166,CUST00166,Auto,North,Approved,No,Medical Emergency,Standard,55,40954
+POL00167,CUST00167,Life,Central,Approved,Yes,Burglary,Standard,36,48280
+POL00168,CUST00168,Travel,South,Approved,Yes,Other,Premium,43,14923
+POL00169,CUST00169,Travel,East,Rejected,No,Flood,Premium,53,17779
+POL00170,CUST00170,Health,North,Approved,No,Fire,Premium,56,8400
+POL00171,CUST00171,Home,North,Under Review,Yes,Medical Emergency,Standard,36,25466
+POL00172,CUST00172,Travel,North,Rejected,No,Flood,Platinum,8,37939
+POL00173,CUST00173,Auto,East,Approved,No,Burglary,Gold,34,5360
+POL00174,CUST00174,Travel,East,Under Review,No,Collision,Standard,41,36270
+POL00175,CUST00175,Health,West,Rejected,No,Burglary,Premium,27,18101
+POL00176,CUST00176,Health,South,Under Review,No,Other,Premium,43,33307
+POL00177,CUST00177,Home,West,Approved,No,Fire,Standard,49,6486
+POL00178,CUST00178,Travel,South,Approved,Yes,Other,Standard,19,9335
+POL00179,CUST00179,Auto,East,Approved,Yes,Medical Emergency,Premium,47,22364
+POL00180,CUST00180,Auto,East,Approved,No,Medical Emergency,Platinum,33,38259
+POL00181,CUST00181,Life,West,Rejected,No,Fire,Premium,40,24576
+POL00182,CUST00182,Auto,Central,Rejected,Yes,Flood,Premium,17,32667
+POL00183,CUST00183,Home,West,Under Review,No,Flood,Standard,36,12130
+POL00184,CUST00184,Home,South,Approved,No,Medical Emergency,Platinum,11,22972
+POL00185,CUST00185,Auto,West,Under Review,Yes,Medical Emergency,Premium,55,41419
+POL00186,CUST00186,Auto,North,Rejected,Yes,Collision,Premium,26,2167
+POL00187,CUST00187,Life,South,Approved,No,Flood,Gold,32,28192
+POL00188,CUST00188,Auto,South,Approved,No,Fire,Standard,6,2062
+POL00189,CUST00189,Life,Central,Rejected,No,Flood,Gold,46,19540
+POL00190,CUST00190,Life,East,Rejected,No,Collision,Gold,49,25244
+POL00191,CUST00191,Auto,South,Rejected,No,Other,Premium,57,22545
+POL00192,CUST00192,Health,East,Rejected,No,Medical Emergency,Standard,10,22689
+POL00193,CUST00193,Health,West,Rejected,No,Medical Emergency,Platinum,32,12174
+POL00194,CUST00194,Life,North,Approved,No,Collision,Premium,32,23925
+POL00195,CUST00195,Auto,Central,Rejected,No,Fire,Platinum,48,38497
+POL00196,CUST00196,Health,East,Approved,No,Medical Emergency,Platinum,48,10348
+POL00197,CUST00197,Auto,South,Approved,Yes,Burglary,Standard,24,24714
+POL00198,CUST00198,Auto,East,Rejected,No,Medical Emergency,Gold,34,39102
+POL00199,CUST00199,Auto,South,Rejected,No,Burglary,Standard,15,9924
+POL00200,CUST00200,Travel,East,Approved,No,Collision,Platinum,59,38098
+POL00201,CUST00201,Auto,South,Rejected,No,Collision,Premium,32,25394
+POL00202,CUST00202,Travel,West,Rejected,No,Medical Emergency,Platinum,29,7801
+POL00203,CUST00203,Life,South,Rejected,No,Flood,Premium,43,38614
+POL00204,CUST00204,Health,South,Under Review,No,Burglary,Premium,37,7731
+POL00205,CUST00205,Health,North,Approved,No,Fire,Standard,5,49136
+POL00206,CUST00206,Health,South,Under Review,No,Medical Emergency,Platinum,31,24625
+POL00207,CUST00207,Health,North,Rejected,No,Fire,Gold,56,18337
+POL00208,CUST00208,Health,Central,Under Review,Yes,Medical Emergency,Platinum,17,36307
+POL00209,CUST00209,Health,North,Rejected,No,Flood,Platinum,45,8056
+POL00210,CUST00210,Health,West,Under Review,No,Flood,Gold,7,12516
+POL00211,CUST00211,Life,North,Rejected,No,Flood,Standard,43,45261
+POL00212,CUST00212,Auto,Central,Under Review,No,Other,Platinum,10,2542
+POL00213,CUST00213,Home,West,Under Review,No,Flood,Platinum,12,22677
+POL00214,CUST00214,Travel,East,Under Review,No,Collision,Premium,31,47732
+POL00215,CUST00215,Home,East,Approved,Yes,Collision,Platinum,13,40081
+POL00216,CUST00216,Home,North,Under Review,No,Other,Gold,41,28569
+POL00217,CUST00217,Auto,North,Approved,No,Burglary,Premium,37,24322
+POL00218,CUST00218,Auto,Central,Rejected,No,Fire,Standard,55,20065
+POL00219,CUST00219,Auto,Central,Under Review,Yes,Medical Emergency,Premium,46,18924
+POL00220,CUST00220,Health,South,Rejected,No,Medical Emergency,Gold,48,23556
+POL00221,CUST00221,Life,Central,Rejected,No,Other,Gold,28,27962
+POL00222,CUST00222,Health,South,Under Review,No,Collision,Premium,19,29295
+POL00223,CUST00223,Life,West,Approved,No,Medical Emergency,Standard,58,14807
+POL00224,CUST00224,Life,North,Under Review,No,Collision,Premium,36,43348
+POL00225,CUST00225,Home,West,Rejected,Yes,Burglary,Standard,36,27432
+POL00226,CUST00226,Home,Central,Rejected,No,Fire,Premium,28,18749
+POL00227,CUST00227,Life,West,Under Review,No,Burglary,Gold,45,42459
+POL00228,CUST00228,Life,West,Approved,No,Other,Platinum,56,27256
+POL00229,CUST00229,Health,West,Approved,No,Flood,Platinum,53,41262
+POL00230,CUST00230,Health,Central,Rejected,No,Flood,Standard,53,38080
+POL00231,CUST00231,Home,West,Rejected,No,Flood,Standard,56,2324
+POL00232,CUST00232,Auto,South,Approved,No,Burglary,Standard,16,26731
+POL00233,CUST00233,Life,Central,Under Review,No,Medical Emergency,Gold,43,36909
+POL00234,CUST00234,Health,West,Rejected,No,Fire,Premium,6,24803
+POL00235,CUST00235,Home,Central,Approved,No,Flood,Gold,7,20870
+POL00236,CUST00236,Health,East,Rejected,No,Other,Platinum,53,35578
+POL00237,CUST00237,Life,South,Under Review,No,Other,Standard,41,7588
+POL00238,CUST00238,Life,West,Approved,No,Flood,Premium,53,39069
+POL00239,CUST00239,Travel,East,Rejected,No,Flood,Platinum,21,27790
+POL00240,CUST00240,Auto,East,Under Review,Yes,Fire,Platinum,53,26289
+POL00241,CUST00241,Travel,Central,Rejected,Yes,Flood,Platinum,6,29178
+POL00242,CUST00242,Home,East,Under Review,No,Fire,Gold,6,29710
+POL00243,CUST00243,Health,South,Under Review,No,Other,Standard,32,16485
+POL00244,CUST00244,Home,South,Approved,No,Flood,Platinum,58,45482
+POL00245,CUST00245,Life,North,Under Review,No,Burglary,Standard,27,21652
+POL00246,CUST00246,Travel,South,Rejected,No,Burglary,Gold,41,5748
+POL00247,CUST00247,Travel,East,Under Review,No,Other,Platinum,36,22233
+POL00248,CUST00248,Travel,South,Under Review,No,Fire,Gold,37,10435
+POL00249,CUST00249,Home,Central,Approved,No,Burglary,Gold,5,4709
+POL00250,CUST00250,Life,North,Under Review,No,Fire,Standard,23,31355
+POL00251,CUST00251,Health,East,Under Review,No,Burglary,Platinum,6,14116
+POL00252,CUST00252,Health,North,Rejected,No,Burglary,Gold,57,26470
+POL00253,CUST00253,Home,East,Approved,No,Fire,Platinum,48,43344
+POL00254,CUST00254,Travel,Central,Approved,No,Medical Emergency,Standard,30,43918
+POL00255,CUST00255,Auto,North,Approved,No,Burglary,Gold,36,40298
+POL00256,CUST00256,Home,West,Under Review,No,Flood,Standard,10,43956
+POL00257,CUST00257,Home,East,Approved,No,Other,Platinum,36,15683
+POL00258,CUST00258,Life,West,Under Review,No,Medical Emergency,Platinum,59,1504
+POL00259,CUST00259,Health,North,Under Review,No,Fire,Standard,8,34982
+POL00260,CUST00260,Home,West,Rejected,No,Medical Emergency,Premium,59,35299
+POL00261,CUST00261,Home,West,Rejected,No,Collision,Gold,15,29016
+POL00262,CUST00262,Travel,North,Rejected,No,Collision,Platinum,21,24960
+POL00263,CUST00263,Travel,Central,Rejected,Yes,Burglary,Platinum,42,34591
+POL00264,CUST00264,Auto,West,Rejected,No,Burglary,Gold,28,18312
+POL00265,CUST00265,Life,West,Under Review,No,Flood,Standard,9,38797
+POL00266,CUST00266,Auto,Central,Under Review,No,Other,Standard,56,47196
+POL00267,CUST00267,Travel,West,Approved,No,Medical Emergency,Standard,38,3105
+POL00268,CUST00268,Health,West,Under Review,No,Collision,Premium,10,37395
+POL00269,CUST00269,Travel,West,Under Review,Yes,Burglary,Premium,26,46740
+POL00270,CUST00270,Life,South,Rejected,No,Other,Platinum,15,23700
+POL00271,CUST00271,Travel,Central,Under Review,No,Medical Emergency,Standard,52,35620
+POL00272,CUST00272,Life,West,Rejected,No,Burglary,Gold,20,38678
+POL00273,CUST00273,Life,Central,Approved,No,Burglary,Platinum,37,21559
+POL00274,CUST00274,Life,East,Approved,No,Collision,Gold,13,28509
+POL00275,CUST00275,Life,East,Under Review,No,Collision,Platinum,10,28860
+POL00276,CUST00276,Life,West,Approved,No,Burglary,Premium,20,12003
+POL00277,CUST00277,Health,Central,Under Review,Yes,Fire,Platinum,33,22732
+POL00278,CUST00278,Auto,Central,Approved,No,Burglary,Premium,7,26826
+POL00279,CUST00279,Home,Central,Rejected,No,Other,Platinum,24,31354
+POL00280,CUST00280,Auto,South,Rejected,No,Burglary,Standard,40,14843
+POL00281,CUST00281,Life,East,Rejected,No,Flood,Gold,23,45472
+POL00282,CUST00282,Health,Central,Rejected,No,Flood,Standard,30,49529
+POL00283,CUST00283,Travel,Central,Under Review,No,Flood,Platinum,7,7190
+POL00284,CUST00284,Health,South,Approved,No,Fire,Platinum,23,18640
+POL00285,CUST00285,Life,South,Under Review,No,Fire,Platinum,24,39413
+POL00286,CUST00286,Health,Central,Rejected,No,Burglary,Premium,36,43356
+POL00287,CUST00287,Health,North,Under Review,No,Flood,Gold,11,45597
+POL00288,CUST00288,Life,Central,Approved,No,Fire,Gold,56,41821
+POL00289,CUST00289,Health,Central,Under Review,Yes,Collision,Platinum,45,4330
+POL00290,CUST00290,Home,South,Approved,No,Burglary,Platinum,37,20087
+POL00291,CUST00291,Home,South,Under Review,No,Other,Premium,44,42430
+POL00292,CUST00292,Health,Central,Approved,Yes,Medical Emergency,Standard,43,25504
+POL00293,CUST00293,Travel,Central,Approved,No,Burglary,Standard,22,8114
+POL00294,CUST00294,Life,Central,Rejected,Yes,Medical Emergency,Gold,44,14323
+POL00295,CUST00295,Home,South,Approved,No,Flood,Premium,5,35121
+POL00296,CUST00296,Travel,Central,Rejected,No,Medical Emergency,Platinum,15,11975
+POL00297,CUST00297,Health,Central,Rejected,No,Flood,Gold,32,12023
+POL00298,CUST00298,Travel,West,Rejected,No,Collision,Premium,29,22447
+POL00299,CUST00299,Auto,North,Under Review,No,Medical Emergency,Standard,54,25933
+POL00300,CUST00300,Home,East,Under Review,No,Burglary,Premium,27,24959
+POL00301,CUST00301,Health,North,Under Review,No,Flood,Standard,35,1667
+POL00302,CUST00302,Life,West,Under Review,No,Burglary,Premium,34,30703
+POL00303,CUST00303,Health,East,Approved,No,Fire,Gold,46,10337
+POL00304,CUST00304,Life,Central,Approved,Yes,Flood,Standard,39,47427
+POL00305,CUST00305,Health,West,Under Review,No,Medical Emergency,Gold,11,37487
+POL00306,CUST00306,Travel,Central,Approved,No,Flood,Gold,20,20129
+POL00307,CUST00307,Travel,South,Approved,No,Burglary,Standard,30,41251
+POL00308,CUST00308,Travel,West,Rejected,No,Collision,Standard,52,32921
+POL00309,CUST00309,Auto,South,Rejected,Yes,Flood,Platinum,56,34307
+POL00310,CUST00310,Life,West,Rejected,No,Medical Emergency,Platinum,53,28355
+POL00311,CUST00311,Travel,West,Rejected,No,Fire,Platinum,6,38732
+POL00312,CUST00312,Auto,South,Approved,No,Other,Gold,5,5835
+POL00313,CUST00313,Life,East,Under Review,No,Collision,Gold,52,21159
+POL00314,CUST00314,Health,North,Approved,No,Fire,Platinum,16,39810
+POL00315,CUST00315,Auto,Central,Approved,No,Flood,Gold,9,48605
+POL00316,CUST00316,Home,West,Approved,No,Burglary,Gold,41,41080
+POL00317,CUST00317,Auto,Central,Rejected,No,Burglary,Standard,36,39088
+POL00318,CUST00318,Auto,South,Rejected,No,Medical Emergency,Standard,59,14216
+POL00319,CUST00319,Life,Central,Rejected,Yes,Burglary,Gold,13,36547
+POL00320,CUST00320,Health,South,Under Review,Yes,Collision,Platinum,45,32471
+POL00321,CUST00321,Home,Central,Approved,No,Burglary,Premium,39,18308
+POL00322,CUST00322,Travel,North,Under Review,No,Medical Emergency,Platinum,23,28532
+POL00323,CUST00323,Travel,North,Rejected,No,Other,Premium,52,35349
+POL00324,CUST00324,Auto,North,Under Review,No,Flood,Platinum,20,46445
+POL00325,CUST00325,Life,North,Approved,Yes,Flood,Standard,7,6713
+POL00326,CUST00326,Life,North,Approved,No,Burglary,Gold,24,5804
+POL00327,CUST00327,Travel,North,Rejected,No,Fire,Gold,28,11136
+POL00328,CUST00328,Home,South,Rejected,No,Flood,Standard,58,1009
+POL00329,CUST00329,Health,West,Under Review,No,Other,Premium,37,20255
+POL00330,CUST00330,Home,Central,Rejected,No,Burglary,Premium,28,24793
+POL00331,CUST00331,Health,North,Rejected,No,Medical Emergency,Premium,56,30548
+POL00332,CUST00332,Travel,South,Approved,No,Other,Standard,15,38892
+POL00333,CUST00333,Health,South,Rejected,No,Burglary,Premium,53,2015
+POL00334,CUST00334,Life,South,Rejected,No,Other,Standard,12,28712
+POL00335,CUST00335,Auto,West,Approved,No,Flood,Platinum,40,35961
+POL00336,CUST00336,Auto,Central,Approved,No,Medical Emergency,Platinum,42,9415
+POL00337,CUST00337,Travel,West,Under Review,No,Burglary,Standard,44,47318
+POL00338,CUST00338,Life,East,Rejected,No,Collision,Gold,24,48280
+POL00339,CUST00339,Home,South,Approved,No,Medical Emergency,Platinum,39,24833
+POL00340,CUST00340,Life,East,Under Review,No,Collision,Premium,52,5158
+POL00341,CUST00341,Auto,North,Under Review,No,Other,Standard,29,21309
+POL00342,CUST00342,Auto,North,Rejected,No,Fire,Premium,39,7970
+POL00343,CUST00343,Life,West,Rejected,Yes,Medical Emergency,Premium,29,7938
+POL00344,CUST00344,Life,Central,Under Review,No,Other,Gold,33,22168
+POL00345,CUST00345,Auto,East,Approved,No,Collision,Premium,22,47540
+POL00346,CUST00346,Home,Central,Under Review,No,Flood,Gold,50,21384
+POL00347,CUST00347,Travel,West,Rejected,No,Flood,Platinum,22,19017
+POL00348,CUST00348,Travel,North,Approved,No,Fire,Standard,6,11344
+POL00349,CUST00349,Life,Central,Approved,No,Medical Emergency,Premium,58,41034
+POL00350,CUST00350,Travel,Central,Under Review,No,Medical Emergency,Standard,39,9702
+POL00351,CUST00351,Auto,North,Rejected,No,Medical Emergency,Premium,20,1384
+POL00352,CUST00352,Auto,East,Under Review,No,Other,Standard,45,1404
+POL00353,CUST00353,Life,North,Under Review,No,Fire,Premium,40,41943
+POL00354,CUST00354,Life,Central,Under Review,No,Medical Emergency,Premium,37,48926
+POL00355,CUST00355,Life,East,Approved,No,Other,Premium,8,30189
+POL00356,CUST00356,Home,East,Approved,No,Flood,Premium,37,13763
+POL00357,CUST00357,Travel,North,Rejected,No,Collision,Premium,18,19384
+POL00358,CUST00358,Life,Central,Rejected,No,Other,Premium,25,33606
+POL00359,CUST00359,Health,West,Under Review,No,Flood,Premium,52,10860
+POL00360,CUST00360,Health,Central,Under Review,No,Flood,Premium,24,39757
+POL00361,CUST00361,Auto,South,Under Review,No,Collision,Premium,12,16106
+POL00362,CUST00362,Travel,West,Rejected,No,Flood,Standard,11,24574
+POL00363,CUST00363,Life,East,Approved,No,Fire,Gold,7,24524
+POL00364,CUST00364,Health,West,Approved,No,Collision,Premium,21,4636
+POL00365,CUST00365,Travel,East,Under Review,No,Flood,Gold,37,11916
+POL00366,CUST00366,Auto,East,Under Review,No,Burglary,Premium,52,5809
+POL00367,CUST00367,Home,West,Under Review,No,Other,Premium,16,33201
+POL00368,CUST00368,Travel,East,Under Review,Yes,Flood,Standard,55,14456
+POL00369,CUST00369,Travel,East,Rejected,No,Fire,Platinum,26,49212
+POL00370,CUST00370,Home,South,Approved,Yes,Medical Emergency,Platinum,59,39765
+POL00371,CUST00371,Travel,Central,Under Review,No,Flood,Standard,26,35816
+POL00372,CUST00372,Auto,Central,Rejected,No,Medical Emergency,Gold,50,46106
+POL00373,CUST00373,Auto,South,Under Review,No,Burglary,Platinum,34,18100
+POL00374,CUST00374,Home,West,Under Review,Yes,Flood,Standard,42,22949
+POL00375,CUST00375,Life,North,Approved,No,Collision,Standard,42,5544
+POL00376,CUST00376,Health,North,Under Review,No,Medical Emergency,Platinum,49,38744
+POL00377,CUST00377,Life,North,Approved,No,Burglary,Gold,55,46543
+POL00378,CUST00378,Travel,South,Approved,No,Collision,Standard,58,43783
+POL00379,CUST00379,Health,South,Approved,No,Collision,Premium,12,27657
+POL00380,CUST00380,Home,East,Rejected,No,Collision,Gold,31,37187
+POL00381,CUST00381,Home,North,Rejected,No,Collision,Gold,31,48198
+POL00382,CUST00382,Health,West,Approved,No,Flood,Platinum,38,8239
+POL00383,CUST00383,Auto,West,Under Review,Yes,Other,Platinum,25,15489
+POL00384,CUST00384,Health,North,Approved,Yes,Flood,Premium,34,44125
+POL00385,CUST00385,Travel,North,Under Review,No,Flood,Standard,37,29538
+POL00386,CUST00386,Auto,North,Approved,No,Burglary,Platinum,32,33049
+POL00387,CUST00387,Home,South,Under Review,Yes,Burglary,Platinum,51,38131
+POL00388,CUST00388,Health,South,Rejected,No,Other,Gold,37,43944
+POL00389,CUST00389,Life,South,Under Review,No,Burglary,Platinum,9,9427
+POL00390,CUST00390,Life,Central,Approved,Yes,Fire,Platinum,52,42348
+POL00391,CUST00391,Travel,West,Rejected,No,Other,Platinum,23,25285
+POL00392,CUST00392,Life,West,Under Review,No,Burglary,Platinum,8,38626
+POL00393,CUST00393,Health,East,Under Review,No,Other,Gold,39,43808
+POL00394,CUST00394,Health,South,Under Review,Yes,Flood,Premium,53,23928
+POL00395,CUST00395,Life,Central,Under Review,Yes,Flood,Premium,21,20198
+POL00396,CUST00396,Health,Central,Under Review,Yes,Other,Standard,48,20758
+POL00397,CUST00397,Travel,West,Rejected,No,Fire,Platinum,32,16254
+POL00398,CUST00398,Auto,South,Rejected,Yes,Fire,Gold,34,45238
+POL00399,CUST00399,Travel,East,Rejected,No,Other,Standard,33,2252
+POL00400,CUST00400,Travel,South,Rejected,No,Burglary,Standard,50,40764
+POL00401,CUST00401,Health,North,Approved,No,Medical Emergency,Premium,57,13173
+POL00402,CUST00402,Auto,South,Rejected,No,Fire,Gold,10,38441
+POL00403,CUST00403,Health,North,Under Review,No,Collision,Gold,39,27698
+POL00404,CUST00404,Home,North,Under Review,No,Flood,Gold,45,16781
+POL00405,CUST00405,Health,East,Rejected,No,Other,Premium,41,14051
+POL00406,CUST00406,Health,West,Under Review,No,Collision,Premium,28,40649
+POL00407,CUST00407,Health,South,Rejected,No,Other,Premium,33,7949
+POL00408,CUST00408,Auto,North,Under Review,No,Flood,Premium,53,43289
+POL00409,CUST00409,Health,South,Approved,No,Flood,Premium,50,9017
+POL00410,CUST00410,Auto,West,Approved,No,Fire,Platinum,57,7941
+POL00411,CUST00411,Life,West,Rejected,No,Fire,Platinum,35,26934
+POL00412,CUST00412,Home,Central,Rejected,No,Collision,Gold,39,24386
+POL00413,CUST00413,Auto,West,Rejected,No,Other,Standard,37,11209
+POL00414,CUST00414,Life,East,Under Review,No,Flood,Gold,56,18715
+POL00415,CUST00415,Auto,North,Rejected,No,Collision,Standard,25,29920
+POL00416,CUST00416,Auto,Central,Approved,Yes,Medical Emergency,Premium,36,32703
+POL00417,CUST00417,Home,East,Under Review,No,Collision,Standard,27,43318
+POL00418,CUST00418,Travel,South,Rejected,No,Burglary,Gold,37,5637
+POL00419,CUST00419,Travel,North,Under Review,No,Collision,Gold,7,5854
+POL00420,CUST00420,Auto,West,Under Review,Yes,Burglary,Standard,22,44088
+POL00421,CUST00421,Health,North,Rejected,No,Burglary,Platinum,29,38660
+POL00422,CUST00422,Life,South,Under Review,Yes,Burglary,Premium,46,40811
+POL00423,CUST00423,Health,Central,Approved,No,Medical Emergency,Premium,35,20856
+POL00424,CUST00424,Health,Central,Approved,Yes,Collision,Gold,58,22833
+POL00425,CUST00425,Auto,Central,Under Review,No,Collision,Platinum,7,20963
+POL00426,CUST00426,Auto,West,Rejected,Yes,Medical Emergency,Standard,44,37932
+POL00427,CUST00427,Auto,East,Under Review,No,Flood,Premium,50,28169
+POL00428,CUST00428,Auto,East,Approved,No,Fire,Platinum,28,8941
+POL00429,CUST00429,Travel,North,Under Review,No,Collision,Premium,54,15388
+POL00430,CUST00430,Auto,West,Under Review,No,Fire,Platinum,36,6569
+POL00431,CUST00431,Travel,Central,Approved,No,Other,Platinum,51,5300
+POL00432,CUST00432,Travel,Central,Under Review,Yes,Other,Gold,26,40037
+POL00433,CUST00433,Auto,South,Under Review,Yes,Medical Emergency,Premium,27,37586
+POL00434,CUST00434,Home,South,Rejected,No,Other,Standard,6,13015
+POL00435,CUST00435,Life,Central,Rejected,No,Other,Gold,31,46002
+POL00436,CUST00436,Health,Central,Approved,No,Flood,Gold,46,7254
+POL00437,CUST00437,Travel,West,Approved,No,Flood,Standard,6,18144
+POL00438,CUST00438,Life,East,Approved,No,Flood,Gold,30,25214
+POL00439,CUST00439,Home,South,Rejected,No,Other,Platinum,21,41118
+POL00440,CUST00440,Health,East,Approved,No,Medical Emergency,Platinum,44,16183
+POL00441,CUST00441,Health,West,Approved,No,Burglary,Premium,37,7238
+POL00442,CUST00442,Travel,Central,Approved,No,Burglary,Premium,13,7090
+POL00443,CUST00443,Auto,East,Rejected,No,Fire,Standard,47,12637
+POL00444,CUST00444,Home,Central,Under Review,No,Burglary,Premium,58,23415
+POL00445,CUST00445,Travel,Central,Approved,No,Burglary,Platinum,52,25071
+POL00446,CUST00446,Home,North,Under Review,Yes,Flood,Standard,43,46415
+POL00447,CUST00447,Auto,East,Approved,No,Flood,Standard,33,43679
+POL00448,CUST00448,Auto,East,Under Review,No,Other,Premium,46,42240
+POL00449,CUST00449,Travel,Central,Rejected,No,Fire,Platinum,59,19271
+POL00450,CUST00450,Auto,West,Rejected,No,Collision,Standard,30,37034
+POL00451,CUST00451,Life,North,Approved,Yes,Fire,Platinum,39,34434
+POL00452,CUST00452,Health,Central,Under Review,No,Fire,Platinum,54,5188
+POL00453,CUST00453,Travel,South,Rejected,No,Medical Emergency,Platinum,29,11161
+POL00454,CUST00454,Home,South,Approved,No,Other,Premium,28,29732
+POL00455,CUST00455,Life,North,Approved,Yes,Medical Emergency,Gold,17,12314
+POL00456,CUST00456,Travel,West,Rejected,Yes,Fire,Gold,11,24954
+POL00457,CUST00457,Auto,Central,Rejected,No,Fire,Standard,40,22508
+POL00458,CUST00458,Auto,East,Approved,No,Fire,Platinum,49,22969
+POL00459,CUST00459,Auto,North,Under Review,No,Burglary,Premium,24,46659
+POL00460,CUST00460,Auto,West,Under Review,Yes,Medical Emergency,Platinum,5,38545
+POL00461,CUST00461,Home,East,Under Review,No,Fire,Platinum,12,37668
+POL00462,CUST00462,Life,South,Approved,Yes,Flood,Premium,50,24061
+POL00463,CUST00463,Health,South,Rejected,No,Other,Gold,20,14716
+POL00464,CUST00464,Home,East,Approved,No,Other,Platinum,18,40749
+POL00465,CUST00465,Home,North,Rejected,No,Flood,Platinum,16,40144
+POL00466,CUST00466,Health,South,Under Review,No,Other,Gold,55,17907
+POL00467,CUST00467,Health,Central,Under Review,No,Burglary,Premium,27,19777
+POL00468,CUST00468,Auto,East,Rejected,No,Burglary,Standard,19,28693
+POL00469,CUST00469,Home,East,Rejected,No,Collision,Gold,32,43928
+POL00470,CUST00470,Travel,South,Approved,No,Collision,Standard,38,27329
+POL00471,CUST00471,Health,North,Under Review,No,Collision,Standard,6,47892
+POL00472,CUST00472,Health,Central,Approved,No,Other,Gold,36,17282
+POL00473,CUST00473,Life,North,Approved,Yes,Burglary,Platinum,27,24624
+POL00474,CUST00474,Travel,West,Approved,Yes,Burglary,Standard,26,24321
+POL00475,CUST00475,Travel,West,Under Review,Yes,Burglary,Standard,55,11488
+POL00476,CUST00476,Health,South,Approved,Yes,Flood,Premium,29,23574
+POL00477,CUST00477,Auto,South,Approved,No,Burglary,Platinum,26,6240
+POL00478,CUST00478,Life,South,Approved,No,Flood,Standard,26,44221
+POL00479,CUST00479,Travel,West,Approved,No,Collision,Premium,53,11478
+POL00480,CUST00480,Health,North,Approved,No,Collision,Platinum,56,46162
+POL00481,CUST00481,Travel,North,Approved,No,Other,Gold,46,20262
+POL00482,CUST00482,Life,South,Under Review,No,Collision,Gold,10,5432
+POL00483,CUST00483,Life,Central,Approved,No,Other,Premium,19,30721
+POL00484,CUST00484,Home,North,Rejected,No,Fire,Gold,58,14568
+POL00485,CUST00485,Health,West,Approved,No,Fire,Standard,47,15178
+POL00486,CUST00486,Life,East,Approved,No,Medical Emergency,Platinum,41,23195
+POL00487,CUST00487,Home,East,Under Review,No,Other,Standard,37,1302
+POL00488,CUST00488,Home,East,Under Review,No,Medical Emergency,Standard,12,18022
+POL00489,CUST00489,Travel,Central,Rejected,Yes,Medical Emergency,Gold,57,1055
+POL00490,CUST00490,Travel,South,Rejected,No,Fire,Standard,48,46781
+POL00491,CUST00491,Home,West,Under Review,No,Other,Gold,48,9717
+POL00492,CUST00492,Travel,Central,Under Review,Yes,Fire,Platinum,9,29699
+POL00493,CUST00493,Life,West,Approved,Yes,Medical Emergency,Platinum,43,9150
+POL00494,CUST00494,Auto,West,Under Review,Yes,Other,Standard,8,3125
+POL00495,CUST00495,Life,South,Rejected,No,Medical Emergency,Premium,10,45247
+POL00496,CUST00496,Home,East,Approved,No,Burglary,Gold,49,49513
+POL00497,CUST00497,Home,South,Rejected,No,Other,Gold,36,17748
+POL00498,CUST00498,Life,Central,Approved,No,Other,Standard,56,40577
+POL00499,CUST00499,Travel,Central,Under Review,No,Medical Emergency,Gold,34,5621
+POL00500,CUST00500,Travel,Central,Rejected,No,Burglary,Gold,51,16034
