@@ -86,6 +86,27 @@ The focus was on:
 
 ---
 
+## 📂 File Structure
+
+```
+Insurance_Analytics/
+├── data/
+│   ├── raw/
+│   │   ├── Insurance_Claims_Data.csv
+│   │   └── Insurance_Customers_Data.csv
+│   ├── processed/
+│   │   ├── Cleaned_Merged_Insurance_Data.csv
+│   │   ├── Feature_Engineered_Insurance_Data_with_ClaimID.csv
+│   │   └── Final_Insurance_Claims_Data.csv
+├── scripts/
+│   ├── insurance_data_cleaning.py
+│   ├── insurance_feature_engineering.py
+│   ├── inject_fake_fraud_case.py
+│   └── risk_scoring_fraud_detection.py
+├── Insurance_Claims_Risk_Summary.png
+└── README.md
+```
+
 
 ## 🧾 Script Summary Log
 
