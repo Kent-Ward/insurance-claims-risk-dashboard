@@ -108,6 +108,25 @@ Insurance_Analytics/
 ```
 
 
+---
+
+## 📣 Stakeholder Summary
+
+This analysis examined 505 insurance claims to assess financial risk and detect potentially fraudulent activity using basic actuarial data science principles. Key findings:
+
+- 🔍 **5 claims (0.99%) were flagged as potentially fraudulent**, primarily due to unusually high claim frequency or payout amounts.
+- 💡 A synthetic fraud scenario was introduced to test our detection logic and validate feature engineering and risk scoring methods.
+- 📊 A Tableau dashboard was created to visualize total claims, frequency patterns, and flagged risks — designed to support underwriting, fraud review, or pricing teams.
+
+### 📌 Business Recommendations
+
+- **Monitor claimants with high claim-to-premium ratios or abnormal frequency.**
+- **Investigate flagged claims and refine fraud thresholds based on future data volume.**
+- **Integrate this process into monthly claims reporting to proactively manage financial exposure.**
+
+This project demonstrates how technical data workflows can be transformed into actionable insights for business and risk stakeholders.
+
+
 ## 🧾 Script Summary Log
 
 | Script | Purpose |
